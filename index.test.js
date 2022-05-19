@@ -1,4 +1,5 @@
-import intersection from "./index";
+// import { intersection } from "./index";
+import { intersection } from "./index2";
 
 describe("Intersection", () => {
   test("empty", () => {
